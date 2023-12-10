@@ -1,0 +1,39 @@
+body {
+    background-color: lightgray;
+    font-family: Helvetica;
+}
+
+#gptResponse {
+    width: 50vw;
+    height: 50vh;
+    border: 10px solid darkgray;
+    border-radius: 15px;
+    margin: 10px;
+    padding: 10px;
+    background-color: whitesmoke;
+}
+
+input,
+button {
+    height: 40px;
+    border: 0px;
+    border-radius: 8px;
+    margin: 10px;
+    margin-right: 0px;
+}
+input, p {
+    width: 45vw;
+    margin-left: 20px;
+}
+button{
+    width: 5vw;
+}
+
+#myBox{
+    color: darkgray;
+    border-radius: 15px;
+    padding: 15px;
+    color: #222;
+    margin: 10px;
+    width: 75%;
+}
